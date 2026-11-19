@@ -1,0 +1,11 @@
+{
+  "PAC-0001": {
+    "patient_id": "PAC-0001",
+    "name": "Test0",
+    "age": 14,
+    "gender": "no_binario",
+    "created_at": "2026-11-18 16:59:56",
+    "sessions_count": 8,
+    "last_session": "2026-11-18 19:02:37"
+  }
+}

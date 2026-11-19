@@ -1,0 +1,303 @@
+﻿Programa digital de acompañamiento preventivo para el riesgo suicida en adolescentes 1   
+Entrenamiento  Virtual AURA+   
+Sube de nivel, cuida tu mente.
+ 
+
+
+
+
+ 
+Eduardo Antonio Castro Cabrera
+Enrique Berra Ruiz
+
+
+Fecha 30 de octubre de 2026 
+
+
+
+
+
+
+
+
+ 
+CONTENIDO 
+S0 ENTRENAMIENTO PARA LA INTERACCIÓN EN EL SOFTWARE        3
+S1 TUTORIAL INTRODUCCIÓN A AURA+        6
+S2. LA LEY DEL HIELO        8
+S3. SE RÍEN DE TI CUANDO TE EQUIVOCAS        11
+S4 CONTAR MENTIRAS ACERCA DE ÉL        14
+S5 FIESTA EN CASA DE LETICIA        17
+S6. CLASE DE COMPUTACIÓN (ACCIDENTE EN LAS ESCALERAS)        19
+S7. ESCENARIO FONDA. PONERLE EN RIDÍCULO ANTE LOS DEMÁS.        22
+S8 DEBAJO DE LAS ESCALERAS, EL AGRESOR ESCUCHA CONVERSACIÓN        24
+S9 INT. CAFETERÍA. ROBAR/ESCONDER SUS COSAS        27
+S10. ESCALERAS. DAR ZAPES/NALGADAS        29
+S11 EXAMEN, EL AGRESOR LE EXIGUE QUE LE PASE LAS RESPUESTAS        31
+S12 INT. CAFETERÍA. JALARLE LOS PELOS        33
+S13 EXT. PATIO. EMPUJA Y JALONEA: METE AL BOTE DE BASURA        36
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+S0 ENTRENAMIENTO PARA LA INTERACCIÓN EN EL SOFTWARE
+
+
+El escenario se propone una escuela en el que se trabaje dentro de un salón de clases el taller de apoyo (esta experiencia de entrenamiento en el manejo del software, ustedes pueden modificar y hacerla más significativa para que aprenda el uso del programa)
+
+
+(Paneo lateral desde el punto de vista del patio de la escuela – Wide shot) 
+La escuela tiene salones de clases, una cooperativa, dirección, baños, y un patio de descanso. Ya has estudiado aquí algunos años y se ha asignado un salón para el trabajo del taller Aura+
+(Travelling lateral – Wide shot) Se muestra el parque cerca de la escuela con niños jugando, gente caminando por la banqueta y coches pasando por la calle. 
+Hay muchos otros lugares a los que puedes ir. No te preocupes si no los viste todos, luego tendrás oportunidad de visitarlos 
+Para hacer esta experiencia más enriquecedora, a lo largo de las sesiones estarás interactuando con algunos compañeros de tu escuela 
+ 
+(Mid shot) La toma cambia a David que está en el patio platicando con otros niños en el patio.  
+Él es tu amigo David.  
+(Mid shot) Se muestra el director en el patio, caminando a su oficina 
+Este es el Director de la escuela  
+(Mid shot) Aparece en un salón el profe de Mate revisando unas hojas 
+Él es tu profesor de Matemáticas  
+(Mid shot) Aparece en otra toma la profesora de Historia dando clase. 
+Y ella es tu profesora de Historia 
+Se muestra una escena en primera persona de la entrada de la escuela haciendo un paneo hacia el patio.  
+Podrás moverte libremente, mirar alrededor, e interactuar con objetos y algunas de las diferentes personas que encuentres 
+FADE OUT 
+ 
+FADE IN   
+El participante ahora toma el control y se encuentra afuera de la entrada principal de la escuela. 
+                                             (VOZ EN OFF)   
+Ahora empecemos con la sesión 
+ 
+TUTORIAL: NOTIFICACIONES “TIPS” Y DIRECCIÓN DE LA VISTA 
+El usuario se encuentra a varios metros lejos de la puerta principal de la escuela. 
+Para mirar alrededor utiliza el mouse.   
+Observa los objetos que se están iluminando.
+(Acción) 
+        -         ¡Muy bien! 
+Aparece el sistema de notificaciones “Dirígete a la puerta”.                    
+(VOZ EN OFF) 
+En algunas ocasiones aparecerán notificaciones que te darán indicaciones y objetivos a seguir durante las sesiones 
+¿Puedes ver la notificación que acaba de aparecer? 
+Esta notificación te indica el objetivo a seguir 
+Ahora centra tu vista en la entrada principal 
+Notificación “Centra tu vista en (icono)” 
+(Acción) 
+¡Excelente! 
+Ya que el jugador haya mirado a su alrededor y completado el objetivo, aparece otra notificación “Camina presionando la tecla W”. Poner COLLIDERS para evitar que se salga de la ruta por ahora. 
+                                    VOZ EN OFF 
+Es momento de saber cómo caminar 
+Ahora que estás listo acércate a la entrada 
+Es verdad que éste es un lugar nuevo para ti, pero se te puede dar ayuda mostrándote cómo llegar si presionas tab. Esto lo puedes hacer en cualquier momento que quieras recordar cómo llegar 
+Presiona el botón ahora 
+(Acción – Aparece marcador) 
+¡Muy bien! 
+Te puedes desplazar presionando W. Si quieres correr presiona Shift. 
+ 
+Inténtalo (Notificación “Dirígete a la esfera” [aparece dentro de la entrada una esfera que indica “Dirígete hacia aquí”.])  
+ 
+ 
+EXT. ESCUELA/ENTRADA/PATIO/MAÑANA 
+TUTORIAL: PRÁCTICA DE DIRECCIÓN DE LA VISTA Y DESPLAZAMIENTO EN EL AMBIENTE 
+EXT. ESCUELA/PATIO/MAÑANA 
+                           VOZ EN OFF 
+Este es el interior de tu escuela 
+La clase está por empezar por lo que tienes que dirigirte a tu salón 
+Acércate a la esfera que acaba de aparecer para llegar 
+ 
+Suena la campana de inicio de clases y entonces aparece el objetivo “Dirígete hacia tu salón”. 
+                                     
+Aparece una esfera en el lugar del salón que indica su ubicación.  
+ TUTORIAL: INTERACCIÓN CON OBJETOS 
+
+
+Cuando el jugador haya llegado a la puerta abierta del salón, sale la notificación “Dirígete a tu lugar” 
+                                    VOZ EN OFF 
+En algunas ocasiones podrás utilizar o desplazar objetos que encuentres 
+Probemos ahora. Llega a tu pupitre y prueba colocar tu mochila en el asiento 
+ 
+INT. ESCUELA/SALÓN DE CLASES/MAÑANA 
+Al entrar al salón se ven a niños sentados en sus lugares o platicando, aún no ha llegado el profesor.  
+Aparece el objetivo “Ve hacia tu pupitre/silla/banca para dejar tu mochila”. El pupitre/silla/banca se encuentra casi al frente, brillando/sobre éste habrá un icono/símbolo/flecha que le indique su lugar. 
+                                    VOZ EN OFF 
+Dirígete a tu lugar 
+Una vez que se llegue al lugar aparece el objetivo “Presiona “la barra espaciadora” para dejar tu mochila”.  
+VOZ EN OFF  
+Ahora deja tu mochila en el asiento 
+Cuando el objetivo se complete el jugador deja su mochila y después se sienta en su lugar. 
+VOZ EN OFF 
+¡Excelente!  
+TUTORIAL: PRÁCTICA SELECCIÓN DE RESPUESTAS 
+Al dejar la mochila en su asiento, DAVID se acerca hacia él y se sienta en el pupitre que está al frente suyo. 
+VOZ EN OFF 
+En algunas ocasiones se te presentarán opciones de respuestas o acciones de las que puedes escoger alguna 
+Escoge la opción que tú tomarías si se te presentara esa situación.  
+Elige la opción que prefieras dando clic izquierdo con el mouse. 
+ (Interfaz de control) 
+Prueba esto con tu amigo David 
+ 
+DAVID: ¡Qué onda! ¿Qué tal te fue con la tarea de matemáticas? Sí la hiciste, ¿no? 
+ 
+Aparecen las opciones para responder: 
+Opción 1): Sí, estaba muy fácil  
+Opción 2): No le entendí… Le voy a pedir ayuda al profesor 
+Opción 3): ¡¿Había tarea?! No recuerdo que haya dejado 
+                   
+A todas las opciones:                                     
+DAVID: Uff, espero que los temas siguientes no estén tan difíciles como este último. 
+En ese momento entra el profesor, los alumnos guardan silencio. 
+                   
+DAVID: Ya viene el profe. Lo platicamos en el recreo, ¿ok? 
+FADE A NEGRO 
+ 
+ 
+________________
+S1 INTRODUCCIÓN A AURA+
+Objetivo: Presentar el programa y sensibilizar a los participantes sobre los propósitos de su implementación. Además de establecer un vínculo entre los participantes y el ejecutor del programa.
+
+
+INTRODUCCIÓN – BIENVENIDA  
+(Zoom in front –  wide shot)  leyenda en grande 
+(VOZ EN OFF) / TEXTO EN PANTALLA
+AURA+ sube de nivel, cuida tu mente. 
+
+
+EXT. CALLE/ENTRADA DE LA ESCUELA/MAÑANA 
+(Paneo vista aérea) Se le muestra al participante una vista de una calle de la colonia donde se ubica la simulación. 
+                  (VOZ EN OFF) / TEXTO EN PANTALLA
+¡Hola! Te damos la bienvenida al programa digital de acompañamiento preventivo para el riesgo suicida en adolescentes  AURA plus (+), este espacio pensado para ayudarte a fortalecer tu bienestar psicológico y potenciar tus virtudes. 
+Yo soy Geo y seré tu guía a lo largo de este programa. 
+ (Zoom in vista aérea – Wide shot) Vista  del salón de clases – Pizarrón donde aparece una tarjeta de identificación donde el participante podrá insertar su nombre. 
+(VOZ EN OFF) / TEXTO EN PANTALLA
+Comenzaremos creando tu tarjeta digital de presentación.
+Escribe tu nombre y comparte cómo te gustaría que los demás te identifiquen en tu comunidad.
+Cuadro texto para que el participante ingrese su nombre y presione el botón de guardar. 
+"¡Excelente! Tu tarjeta ya forma parte del muro del grupo." 
+FADE OUT 
+(Zoom in front – medium shot) Vista  del salón de clases – Aparece Geo con diálogos de texto 
+(VOZ EN OFF) / TEXTO EN PANTALLA
+"Todo proyecto requiere de nuestra voluntad y motivación. ¿Qué te impulsó a unirte al programa AURA+ y qué esperas de esta experiencia?" 
+
+
+(Zoom in front –  wide shot) Vista  del salón de clases – zoom al pizarrón aparecen dinámicamente notas adhesivas donde el participante selecciona  y escribe sus metas. 
+TEXTO EN PANTALLA
+ Opciones interactivas / Campo de texto:
+"Aprender a manejar el estrés o emociones difíciles"
+"Conocerme mejor y valorar mis fortalezas"
+"Conectar con otros adolescentes y saber cómo pedir ayuda"
+(Espacio de respuesta abierta para expectativas personales)
+
+
+	(Zoom in front – medium shot) Vista  del salón de clases – Aparece Geo con diálogos de texto 
+(VOZ EN OFF) / TEXTO EN PANTALLA
+Tus respuestas quedarán registradas en tu Guía Digital del Participante para recordar tu punto de partida." 
+FADE OUT 
+(Zoom in front – medium shot) Vista  del salón de clases – Aparece Geo con diálogos de texto 
+(VOZ EN OFF) / TEXTO EN PANTALLA
+AURA+  se basa en la psicología positiva y busca potenciar tu bienestar a través de tres ejes centrales:" 
+(Zoom in front –  wide shot) Vista  del salón de clases – Zoom al pizarrón donde aparece esquema interactivo desplegable que muestra los tres ejes principales del programa y la dimensión transversal. 
+TEXTO EN PANTALLA
+
+
+1.     "Aprender a valorarte, reconocer tus capacidades y proponerte metas optimistas."
+2.     "Desarrollar herramientas para afrontar problemas y disfrutar de experiencias positivas."
+3.     “Fortalecer tus relaciones, servir a los demás y saber pedir ayuda cuando la necesites."
+	(Zoom in front – medium shot) Vista  del salón de clases – Aparece Geo con diálogos de texto }
+(VOZ EN OFF) / TEXTO EN PANTALLA
+Además, en cada sesión practicaremos ejercicios de respiración y relajación para ayudarte a regular tu cuerpo y calmar tu mente.
+
+
+FADE OUT 
+
+
+(Zoom in front – medium shot) Vista  del salón de clases – Aparece Geo con diálogos de texto 
+(VOZ EN OFF) / TEXTO EN PANTALLA
+Para que este programa sea un espacio seguro para todos, establecemos compromisos de grupo:
+
+
+(Zoom in front –  wide shot) Vista  del salón de clases – zoom al pizarrón
+ TEXTO EN PANTALLA
+·       Respeto: Valorar las opiniones y vivencias de los demás sin juzgar.
+·       Confidencialidad: Lo compartido dentro de la comunidad se mantiene protegido.
+·       Asistencia y Práctica: Compromiso de realizar las actividades y poner en práctica los ejercicios.
+	Firma Digital (Botón): "Acepto los acuerdos y firmó mi compromiso con el grupo AURA+." 
+
+
+FADE OUT 
+
+
+
+
+(Zoom in front –  wide shot) Vista  de un jardín con música relajante de fondo. Aparece Geo con diálogo de texto 
+(VOZ EN OFF) / TEXTO EN PANTALLA
+ "Para cerrar la sesión, realizaremos una pausa activa: la Respiración Natural Completa para reducir tensiones fisiológicas."  
+aquí se integra un vídeo de apoyo para realizar la respiración, adjunto un ejemplo del  video que guía el ejercicio que se describe a continuación
+
+
+FADE OUT 
+(Zoom in front –  wide shot) Vista  de un jardín con música relajante de fondo. Aparece una silueta gráfica que se ilumina en tono azul y expande rítmicamente en tres niveles (pecho, tórax y abdomen)
+Voz en off / Facilitador Virtual: (Tono cálido, pausado y sereno) "Para comenzar, iniciaremos concentrándonos en nuestro cuerpo y en la manera como respiramos. Lleva tus manos suavemente hacia el abdomen y cierra los ojos." (Pausa de 3 segundos) "Siente el contacto de tus manos y concéntrate únicamente en el aire que entra y sale de ti."
+Indicador en pantalla: Iluminación/expansión de la zona abdominal.
+Voz en off: "Respira aire por la nariz... siente cómo se llenan lentamente tus pulmones, empezando por la parte más baja, presionando tu abdomen hacia afuera..." (Pausa de 3 segundos)
+Indicador en pantalla: La luz/expansión asciende hacia la zona de la caja torácica.
+Voz en off: "Seguidamente, llene de aire la parte media de sus pulmones, mientras su tórax y sus costillas se expanden lentamente..." (Pausa de 3 segundos)
+Indicador en pantalla: La luz/expansión alcanza la parte superior del pecho.
+Voz en off: "Por último, llene la parte alta de sus pulmones, mientras se eleva el pecho y el abdomen se va suavemente hacia adentro..." (Pausa de 3 segundos)
+Indicador en pantalla: Animación fluida y rítmica que muestra la onda completa de inhalación y exhalación.
+Voz en off: "Exhala despacio, liberando todo el aire..." (Pausa de 3 segundos) "Realice este ejercicio varias veces, de manera continua y con inhalaciones suaves..." (Pausa de 8 segundos guiada por la animación gráfica) "Al terminar, abre lentamente los ojos y tómate un segundo para notar la sensación de calma en tu cuerpo."
+FADE OUT 
+
+
+
+
+(Zoom in front – medium shot) Vista  del salón de clases – Aparece Geo con diálogos de texto 
+(VOZ EN OFF) / TEXTO EN PANTALLA
+Tu tarea de esta semana es la Urna de Pensamientos Positivos. 
+Escribe tres frases positivas que te sean útiles para recordar aspectos valiosos de tu vida." 
+
+
+(Zoom in front –  wide shot) Vista  del salón de clases – Zoom al pizarrón donde aparece
+TEXTO EN PANTALLA
+Campos de texto interactivos:
+Frase positiva 1
+Frase positiva 2
+Frase positiva 3
+	
+
+(Zoom in front – medium shot) Vista  del salón de clases – Aparece Geo con diálogos de texto 
+(VOZ EN OFF) / TEXTO EN PANTALLA
+Diálogo 1. ¡Excelente trabajo! Has completado la primera sesión. Tus frases quedarán guardadas en tu urna digital para leerlas durante la semana. Nos vemos en la sesión 2 para seguir fortaleciendo tu bienestar. 
+
+
+FADE OUT 
+(Zoom in front –  wide shot)  leyenda en grande 
+(VOZ EN OFF) / TEXTO EN PANTALLA
+AURA+ sube de nivel, cuida tu mente. 
+FADE OUT
+
+
+
+
+
+
+
+
+
+
+
+
+ Página

@@ -1,0 +1,18 @@
+﻿PROGRAMA AURA+ | REPORTE PSICOMÉTRICO DE SESIÓN CLÍNICA
+Fecha y Hora de Cierre;2026-11-18 18:54:21
+ID Paciente;PAC-0001
+Nombre del Paciente;Test0
+Número de Sesión;0
+
+DIMENSIÓN CONDUCTUAL;PUNTAJE ACUMULADO;DESCRIPCIÓN CLÍNICA
+Asertividad;0;Expresión clara de necesidades y límites saludables
+Amabilidad;0;Cooperación, empatía e interés pro-social
+Evitación;3;Conducta de huida pasiva, silencio o aislamiento
+Agresividad;1;Reactividad impulsiva, confrontación u hostilidad
+Contador de Riesgo / Fallos;1;Decisiones de riesgo emocional o vulnerabilidad
+
+Timestamp;ID Decisión;Contexto / Pregunta;Opción Seleccionada;Delta Asertividad;Delta Amabilidad;Delta Evitación;Delta Agresividad;Riesgo / Fallo;Tiempo de Respuesta (Segundos)
+2026-11-18 18:54:16;S0_DEC_DAVID_TAREA;David pregunta qué tal fue con la tarea de matemáticas y si se realizó.;¿Había tarea? No recuerdo que haya dejado;0;0;3;1;SÍ (ALERTA);1.97
+
+Total de Decisiones Evaluadas;1
+Tiempo Medio de Respuesta (segundos);1.97
